@@ -1,0 +1,17 @@
+$color:#2a86c9;
+$mycolor:#060fbf;
+$Myfontsize:18px;
+$Myfontsize1:20px;
+
+.project{
+  padding:10px;
+}
+  ol{
+  font-size:$Myfontsize;
+  color:$color;
+  @extend .project;
+  }
+  ol>li{
+    font-size:$Myfontsize1;
+    color:$mycolor;
+  }

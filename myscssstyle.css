@@ -1,0 +1,12 @@
+.project, ol {
+  padding: 10px; }
+
+ol {
+  font-size: 18px;
+  color: #2a86c9; }
+
+ol > li {
+  font-size: 20px;
+  color: #060fbf; }
+
+/*# sourceMappingURL=myscssstyle.css.map */

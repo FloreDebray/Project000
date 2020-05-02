@@ -1,0 +1,36 @@
+#myHeader {
+  color: blue;
+  text-align: center;
+  padding: 5px
+}
+h3,grid{
+  color:#33CAFF;
+  margin-left: 20%;
+  padding: 5px
+}
+h2{
+  color: #082763;
+  text-align: center;
+  padding: 5px
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:5%;
+}
+input:focus {
+  background-color: yellow;
+}
+a.Hover:hover {color: red;}
+@media screen and (min-width: 600px) {
+  body {
+    font-size: 20px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  body {
+    font-size: 10px;
+  }
+}
